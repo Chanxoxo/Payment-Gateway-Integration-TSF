@@ -1,2 +1,2 @@
 # Payment-Gateway-TSF
-A simple website for donation
+Created a simple payment gateway website. This is very simple and easy accessible website to donate for needs.
